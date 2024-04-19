@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-👋 I’m Alex from Kyiv, Ukraine. <BR> 
+👋 I’m Alex from Kyiv, Ukraine. <BR> <BR> 
 Dynamic and driven Java developer with over 2.5 years of robust backend development experience, showcasing a relentless
 pursuit of technical excellence and possessing advanced English knowledge. My extensive background in aviation engineering
 has finely honed my soft skills, complementing my expertise in Java programming.
@@ -13,7 +13,7 @@ scalable solutions. Committed to fostering a culture of teamwork, I strive to al
 - DB: JDBC, Hibernate, RDBMS (Oracle, PostgreSQL, MySQL)
 - Web: Servlets, Tomcat, JSP, HTML, JSON
 - Spring: Core, Boot, Web, Data, Security
-- Testing: Junit, Mockito
+- Testing: JUnit, Mockito
 - Build: Maven, Gradle
 - Patterns: GoF, SOLID, GRASP
 - OS: Linux, Windows
